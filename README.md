@@ -1,1 +1,2 @@
-# note_app_jerico_dellomas
+# Note app
+# Jerico Dellomas, BSIT 3-2
