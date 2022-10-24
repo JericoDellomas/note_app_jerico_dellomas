@@ -1,0 +1,1 @@
+# note_app_jerico_dellomas
